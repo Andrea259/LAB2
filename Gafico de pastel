@@ -1,0 +1,8 @@
+# importando las librerias 
+import matplotlib.pyplot as plt
+
+gov= "earthquake.usgs.gov"
+paises = ['magnitude','type','title','date','time','updated','url','detailUrl','felt','cdi','mmi','alert','status','tsunami','sig','net','code','ids','sources','types','nst','dmin','rms','gap','magType','geometryType','depth','latitude','longitude','place','distanceKM','placeOnly','location','continent','country','subnational','city','locality','postcode','what3word','timezone','locationDetails']
+
+# explicacion
+#te permite visualizar fácilmente estos datos directamente desde tu entorno de desarrollo.
